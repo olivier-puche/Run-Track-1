@@ -1,0 +1,84 @@
+	
+		html{
+			background-color:lightgrey;
+		}
+		h1{
+			font-size:2em;
+			font-family:"Courier";
+			color:black;
+			text-align:center;
+		}
+		h2{
+			text-align:center;
+			color:#27609F;
+			font-family:"Bahnschrift";
+		}
+		body ul
+		{	
+			list-style-type:none;
+			display:flex;
+			justify-content:center;
+			}
+		li a{
+			text-decoration:none;
+			font-size:2.1em;
+			font-family:Verdana;
+			color:white;
+			margin-right:8px;
+			background-color:blue;
+			padding:2px 6px 2px 6px;
+			border-radius:5px;
+			font-family:"Verdana";
+			font-weight:bold;
+			box-shadow: 6px 6px 4px black;
+		}
+
+		#underscore{
+			color:#27609F;
+			display:inline-block;
+		}
+
+		footer{
+			position:absolute;
+			bottom:10px;
+			background-color:white;
+			padding-right: 2000px;
+		}
+		footer ul{
+			list-style-type: none;
+			display:flex;
+			flex-direction:column;
+			border-radius: 5px;
+			background-color: lightblue;
+			margin-left:5px;
+			box-shadow: 3px 3px 2px black;
+			
+		}
+		footer li{
+			font-family:Helvetica;
+			font-weight:normal;
+			color:black;
+			font-size:1em;
+		}
+		footer{
+			font-family:Courier;
+			font-weight:bold;
+			color:black;
+			font-size:1.1em;;
+		}
+		img
+		{
+			display:block;
+			margin-left:auto;
+			margin-right:auto;
+			height="420px"
+		}
+		#Citation
+		{
+			text-align:center;
+			font-family:"Rockwell";
+			text-shadow: 1px 1px 2px pink;
+		}
+	
+
+

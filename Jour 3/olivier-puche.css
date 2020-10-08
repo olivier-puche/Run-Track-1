@@ -1,0 +1,44 @@
+#Text{font-size: 0.7em;}
+#Formation{font-size: 0.6em}
+
+		html{
+			background-color:#88C1D0;
+		}
+		h1{
+			font-size:2em;
+			font-family:"Courier";
+			color:black;
+			text-align:center;
+		}
+		body ul
+		{	
+			list-style-type:none;
+			display:flex;
+			justify-content:center;
+			}
+		body a{
+			text-decoration:none;
+			font-size:1.1em;
+			font-family:Verdana;
+			color:white;
+			margin-right:8px;
+			background-color:#FFCB4B;
+			padding:2px 6px 2px 6px;
+			border-radius:5px;
+			font-family:"Verdana";
+			font-weight:bold;
+		}
+		#underscore{
+			color:#27609F;
+			display:inline-block;
+		}
+
+#projet{
+	color:white;
+}
+#experience{
+	color: red; font-style: italic; border: 3px solid black; border-radius: 5px;
+}
+h2 {
+	color: blue;
+}
